@@ -1,6 +1,6 @@
-//META{"name":"Colorize","description":"Colorize your Discord to your liking!","author":"Omniscient and maple","version":"1.00"}*//
+﻿//META{"name":"Colorize","description":"Colorize your Discord to your liking!","author":"AXAz0r and maple","version":"1.00"}*//
 
-@import url("https://rawgit.com/0mniscient/Discord-Themes/master/css/colorize.css");
+@import url("https://rawgit.com/lu-ci/Discord-Themes/master/css/colorize.css");
 
 :root {
 	--main-color: #36393e; /*Change this HEX Color to whatever color you want*/
